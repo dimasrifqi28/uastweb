@@ -1,0 +1,104 @@
+{
+    "best-products": [
+        {
+            "id": 1,
+            "kode": "WS-01",
+            "nama": "Rib Eye",
+            "harga": 32000,
+            "is_ready": true,
+            "gambar": "rib_eye.png"
+        },
+        {
+            "id": 2,
+            "kode": "WS-02",
+            "nama": "Rib Eye Import",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "rib_eye_import.png"
+        },
+        {
+            "id": 3,
+            "kode": "WS-03",
+            "nama": "Sirloin Import",
+            "harga": 35000,
+            "is_ready": true,
+            "gambar": "sirloin_import.png"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "kode": "WS-01",
+            "nama": "Rib Eye",
+            "harga": 32000,
+            "is_ready": true,
+            "gambar": "rib_eye.png"
+        },
+        {
+            "id": 2,
+            "kode": "WS-02",
+            "nama": "Rib Eye Import",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "rib_eye_import.png"
+        },
+        {
+            "id": 3,
+            "kode": "WS-03",
+            "nama": "Sirloin Import",
+            "harga": 35000,
+            "is_ready": true,
+            "gambar": "sirloin_import.png"
+        },
+        {
+            "id": 4,
+            "kode": "WS-04",
+            "nama": "Beef Steak",
+            "harga": 27000,
+            "is_ready": true,
+            "gambar": "beef_steak.png"
+        },
+        {
+            "id": 5,
+            "kode": "WS-05",
+            "nama": "Black Pepper",
+            "harga": 22000,
+            "is_ready": true,
+            "gambar": "blackpepper.png"
+        },
+        {
+            "id": 6,
+            "kode": "WS-06",
+            "nama": "Chicken Mushroom",
+            "harga": 25000,
+            "is_ready": true,
+            "gambar": "chicken_mushroom.png"
+        },
+        {
+            "id": 7,
+            "kode": "WS-07",
+            "nama": "Chicken Pepper",
+            "harga": 25000,
+            "is_ready": true,
+            "gambar": "chicken_pepper.png"
+        },
+        {
+            "id": 8,
+            "kode": "WS-08",
+            "nama": "Fish Grill",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "fish_grill.png"
+        },
+        {
+            "id": 9,
+            "kode": "WS-09",
+            "nama": "Calamari Steak",
+            "harga": 30000,
+            "is_ready": true,
+            "gambar": "calamari_steak.png"
+        }
+    ],
+    "keranjangs": [],
+    "pesanans": []
+}
